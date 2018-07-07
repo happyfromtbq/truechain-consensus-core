@@ -1,6 +1,6 @@
 # PBFT-Core
 ===
-123
+123456
 *These codes have not gone through reviews. Please use them with cautions*
 
 This code base is an ongoing implementation of Practical Byzantine Fault Tolerance protocol. This PBFT will be the BFT layer in our hybrid consensus design. For this testnet, we will be using PBFT alone to support services and meanwhile working on development and research on the rest of hybrid consensus.
